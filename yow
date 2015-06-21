@@ -1,0 +1,2 @@
+cd /home/pi/yowsup
+/home/pi/yowsup/yow-daemon.py $1
